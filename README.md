@@ -34,7 +34,7 @@ The dashboard provides:
 
 ## 🚀 Installation & Setup
 - Install required R packages:
- - install.packages(c("shiny", "dplyr", "ggplot2"))
+  - install.packages(c("shiny", "dplyr", "ggplot2"))
 - Run the app:
- - library(shiny)
- - runApp("app.R")
+  - library(shiny)
+  - runApp("app.R")
